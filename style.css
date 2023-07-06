@@ -53,7 +53,8 @@ button{
 }
 
 .container-jollof,
-.container-fried
+.container-fried,
+.container-pie
 {
   display: flex;
   flex-direction: row;
@@ -64,7 +65,8 @@ button{
 
 
 .jollof-img,
-.fried-img{
+.fried-img,
+.pie-img{
   width: 300px;
   height: 300px;
   box-shadow: 12px 12px 12px green;
@@ -82,7 +84,7 @@ li{
 }
 
 button:hover{
-  color: azure;
+  color:white;
   background-color: green;
 }
 
