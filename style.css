@@ -49,7 +49,9 @@ a{
 }
 
 button{
-  padding: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
 }
 
 .container-jollof,
@@ -81,11 +83,15 @@ li{
 .home-button{
  text-align: center;
  margin-top: 15px;
+ cursor: pointer;
+ padding: 10px;
 }
 
 button:hover{
   color:white;
   background-color: green;
+  cursor: pointer;
+  font-weight: bold;
 }
 
 
